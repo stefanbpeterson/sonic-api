@@ -1,0 +1,14 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Sonic",
+            "img": "https://static.wikia.nocookie.net/sonic/images/4/48/Sonic_the_Hedgehog_Post-SGW_by_elesis_knight.png/revision/latest/scale-to-width-down/280?cb=20170430202510"
+        },
+        {
+            "id": 2,
+            "name": "Knuckles",
+            "img": "https://static.wikia.nocookie.net/sonic/images/0/0a/TSR_Knuckles.png/revision/latest?cb=20210815041936"
+        }
+    ]
+}
