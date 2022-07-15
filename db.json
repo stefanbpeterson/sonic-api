@@ -3,87 +3,92 @@
         {
             "id": 1,
             "name": "Sonic",
-            "img": "https://static.wikia.nocookie.net/sonic/images/4/48/Sonic_the_Hedgehog_Post-SGW_by_elesis_knight.png/revision/latest/scale-to-width-down/280"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/sonic.png"
         },
         {
             "id": 2,
             "name": "Knuckles",
-            "img": "https://static.wikia.nocookie.net/sonic/images/0/0a/TSR_Knuckles.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/knuckles.png"
         },
         {
             "id": 3,
             "name": "Tails",
-            "img": "https://static.wikia.nocookie.net/sonic/images/a/aa/TSR_Tails.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tails.png"
         },
         {
             "id": 4,
             "name": "Amy",
-            "img": "https://static.wikia.nocookie.net/sonic/images/1/18/TSR_Amy.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/amy.png"
         },
         {
             "id": 5,
             "name": "Shadow",
-            "img": "https://static.wikia.nocookie.net/sonic/images/b/b5/TSR_Shadow.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/shadow.png"
         },
         {
             "id": 6,
             "name": "Doctor Eggman",
-            "img": "https://static.wikia.nocookie.net/sonic/images/c/c9/TSR_Dr_Eggman.png/revision/latest/scale-to-width-down/810"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/eggman.png"
         },
         {
             "id": 7,
             "name": "Rouge",
-            "img": "https://static.wikia.nocookie.net/sonic/images/f/fc/TSR_Rouge.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/rouge.png"
         },
         {
             "id": 8,
             "name": "Vector",
-            "img": "https://static.wikia.nocookie.net/sonic/images/7/7d/Vector_Team_Sonic_Racing.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/vector.png"
         },
         {
             "id": 9,
             "name": "Silver",
-            "img": "https://static.wikia.nocookie.net/sonic/images/b/b2/TSR_Silver.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/silver.png"
         },
         {
             "id": 10,
             "name": "Big the Cat",
-            "img": "https://static.wikia.nocookie.net/sonic/images/1/17/TSR_Big.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/big-the-cat.png"
         },
         {
             "id": 11,
             "name": "Cream",
-            "img": "https://static.wikia.nocookie.net/sonic/images/2/2e/Cream%28Modern%29.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/cream.png"
         },
         {
             "id": 12,
             "name": "Emerl",
-            "img": "https://static.wikia.nocookie.net/sonic/images/1/16/Sonicchannel_emerl.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/emerl.png"
         },
         {
             "id": 13,
             "name": "Charmy",
-            "img": "https://static.wikia.nocookie.net/sonic/images/b/b6/Charmy-Sonic-Forces-Speed-Battle-Artwork.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/charmy.png"
         },
         {
             "id": 14,
             "name": "Blaze",
-            "img": "https://static.wikia.nocookie.net/sonic-universe/images/1/19/Blaze_the_Cat_Decal.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/blaze.png"
         },
         {
             "id": 15,
             "name": "E-123 Omega",
-            "img": "https://static.wikia.nocookie.net/sonic/images/5/53/TSR_Omega.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/e123-omega.png"
         },
         {
             "id": 16,
             "name": "Tikal",
-            "img": "https://static.wikia.nocookie.net/sonic/images/a/aa/TikalSFSB.png/revision/latest"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tikal.png"
         },
         {
             "id": 17,
             "name": "Chaos",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/chaos.png"
+        },
+        {
+            "id": 18,
+            "name": "Sticks",
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/sticks.png"
         }
     ]
 }
