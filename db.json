@@ -2,27 +2,27 @@
     "characters": [
         {
             "id": 1,
-            "name": "Sonic",
+            "name": "Sonic the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/sonic.png"
         },
         {
             "id": 2,
-            "name": "Knuckles",
+            "name": "Knuckles the Echidna",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/knuckles.png"
         },
         {
             "id": 3,
-            "name": "Tails",
+            "name": "Miles 'Tails' Prower",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/tails.png"
         },
         {
             "id": 4,
-            "name": "Amy",
+            "name": "Amy the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/amy.png"
         },
         {
             "id": 5,
-            "name": "Shadow",
+            "name": "Shadow the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/shadow.png"
         },
         {
@@ -32,17 +32,17 @@
         },
         {
             "id": 7,
-            "name": "Rouge",
+            "name": "Rouge the Bat",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/rouge.png"
         },
         {
             "id": 8,
-            "name": "Vector",
+            "name": "Vector the Crocodile",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/vector.png"
         },
         {
             "id": 9,
-            "name": "Silver",
+            "name": "Silver the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/silver.png"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "id": 11,
-            "name": "Cream",
+            "name": "Cream the Rabbit",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/cream.png"
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "id": 13,
-            "name": "Charmy",
+            "name": "Charmy Bee",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/charmy.png"
         },
         {
             "id": 14,
-            "name": "Blaze",
+            "name": "Blaze the Cat",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/blaze.png"
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "id": 16,
-            "name": "Tikal",
+            "name": "Tikal the Echidna",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/tikal.png"
         },
         {
@@ -87,7 +87,7 @@
         },
         {
             "id": 18,
-            "name": "Sticks",
+            "name": "Sticks the Badger",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/sticks.png"
         }
     ]
