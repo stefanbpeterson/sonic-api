@@ -4,9 +4,7 @@
             "id": 1,
             "name": "Sonic the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/sonic.png",
-            "sounds": [
-                "https://electricaugur.com/wp-content/uploads/2022/07/sonic1.wav"
-            ]
+            "sound": "https://electricaugur.com/wp-content/uploads/2022/07/sonic1.wav"
         },
         {
             "id": 2,
