@@ -4,92 +4,127 @@
             "id": 1,
             "name": "Sonic the Hedgehog",
             "img": "https://electricaugur.com/wp-content/uploads/2022/07/sonic.png",
-            "sound": "https://electricaugur.com/wp-content/uploads/2022/07/sonic1.wav"
+            "sound": "https://electricaugur.com/wp-content/uploads/2022/07/sonic1.wav",
+            "food": "chili dogs"
         },
         {
             "id": 2,
             "name": "Knuckles the Echidna",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/knuckles.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/knuckles.png",
+            "sound": "",
+            "food": "grapes"
         },
         {
             "id": 3,
             "name": "Miles 'Tails' Prower",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tails.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tails.png",
+            "sound": "",
+            "food": "mint candy"
         },
         {
             "id": 4,
             "name": "Amy the Hedgehog",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/amy.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/amy.png",
+            "sound": "",
+            "food": "ice cream"
         },
         {
             "id": 5,
             "name": "Shadow the Hedgehog",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/shadow.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/shadow.png",
+            "sound": "",
+            "food": "pizza"
         },
         {
             "id": 6,
             "name": "Doctor Eggman",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/eggman.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/eggman.png",
+            "sound": "",
+            "food": "eggs"
         },
         {
             "id": 7,
             "name": "Rouge the Bat",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/rouge.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/rouge.png",
+            "sound": "",
+            "food": "spaghetti"
         },
         {
             "id": 8,
             "name": "Vector the Crocodile",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/vector.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/vector.png",
+            "sound": "",
+            "food": "grape bubblegum"
         },
         {
             "id": 9,
             "name": "Silver the Hedgehog",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/silver.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/silver.png",
+            "sound": "",
+            "food": "pasta"
         },
         {
             "id": 10,
             "name": "Big the Cat",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/big-the-cat.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/big-the-cat.png",
+            "sound": "",
+            "food": "fish"
         },
         {
             "id": 11,
             "name": "Cream the Rabbit",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/cream.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/cream.png",
+            "sound": "",
+            "food": "ice cream"
         },
         {
             "id": 12,
             "name": "Emerl",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/emerl.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/emerl.png",
+            "sound": "",
+            "food": "does not eat food"
         },
         {
             "id": 13,
             "name": "Charmy Bee",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/charmy.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/charmy.png",
+            "sound": "",
+            "food": "honey"
         },
         {
             "id": 14,
             "name": "Blaze the Cat",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/blaze.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/blaze.png",
+            "sound": "",
+            "food": "spicy chicken"
         },
         {
             "id": 15,
             "name": "E-123 Omega",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/e123-omega.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/e123-omega.png",
+            "sound": "",
+            "food": "does not eat food"
         },
         {
             "id": 16,
             "name": "Tikal the Echidna",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tikal.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/tikal.png",
+            "sound": "",
+            "food": ""
         },
         {
             "id": 17,
             "name": "Chaos",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/chaos.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/chaos.png",
+            "sound": "",
+            "food": ""
         },
         {
             "id": 18,
             "name": "Sticks the Badger",
-            "img": "https://electricaugur.com/wp-content/uploads/2022/07/sticks.png"
+            "img": "https://electricaugur.com/wp-content/uploads/2022/07/sticks.png",
+            "sound": "",
+            "food": ""
         }
     ]
 }
